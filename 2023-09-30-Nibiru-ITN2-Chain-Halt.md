@@ -1,4 +1,6 @@
-# Summary
+# Postmortem
+
+## Summary
 
 On Sept 30 @ 22:16:01 UTC time, the `nibiru-itn-2` network halted at block `1131575`. 
 
